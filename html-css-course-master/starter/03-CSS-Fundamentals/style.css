@@ -5,6 +5,12 @@ h4,
 p,
 li {
   font-family: sans-serif;
+  color: #444;
+}
+h1,
+h2,
+h3 {
+  color: #0f98ad;
 }
 
 h1 {
@@ -35,3 +41,39 @@ p {
 li {
   font-size: 20px;
 }
+
+/* footer p {
+  font-size: 16px;
+} */
+
+#author {
+  font-style: italic;
+  font-size: 18px;
+}
+
+#copyright {
+  font-size: 16px;
+}
+
+.related-author {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.related {
+  list-style: none;
+}
+
+.main-header {
+  background-color: #f7f7f7;
+}
+
+aside {
+  background-color: #f7f7f7;
+  border-top: 5px solid #0f98ad;
+  border-bottom: 5px solid #0f98ad;
+}
+
+/* body {
+  background-color: orange;
+} */
