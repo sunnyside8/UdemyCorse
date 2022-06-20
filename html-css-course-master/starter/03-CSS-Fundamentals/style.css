@@ -5,7 +5,6 @@
 body {
   color: #444;
   font-family: sans-serif;
-
   border-top: 10px solid #1098ad;
 }
 
@@ -111,7 +110,7 @@ a:visited {
 a:hover {
   color: orangered;
   font-weight: bold;
-  text-decoration: underline orangered;
+  text-decoration:  orangered;
 }
 
 a:active {
@@ -134,3 +133,6 @@ a:active {
 footer p {
   color: green;
 } */
+
+
+pL
