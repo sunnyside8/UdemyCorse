@@ -11,8 +11,10 @@
     <div class="body">
       <p class="shipping">Free shipping</p>
       <p class="sale">SALE</p>
+      <p></p>
       <p class="price"><strong>$65.00</strong></p>
-      <p class="product description">
+      <p></p>
+      <p>
         Ready to dress up or down, these classic canvas Chucks are an everyday
         wardrobe staple.
       </p>
@@ -27,7 +29,6 @@
         <div class="color brown"></div>
       </div>
     </div>
-
     <div class="info">
       <ul class="details-list">
         <li>Lightweight, durable canvas sneaker</li>
